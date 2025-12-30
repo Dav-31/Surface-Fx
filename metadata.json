@@ -1,0 +1,6 @@
+
+{
+  "name": "AC Surface Modder",
+  "description": "An interface for Assetto Corsa track surface management using the File System Access API. Quickly apply presets like Asphalt, Dirt, or Ice to track layouts.",
+  "requestFramePermissions": []
+}
